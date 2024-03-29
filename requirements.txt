@@ -1,0 +1,6 @@
+crewai
+streamlit
+taipy
+django
+python-dotenv
+crewai[tools]
