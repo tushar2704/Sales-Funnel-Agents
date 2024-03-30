@@ -1,6 +1,8 @@
 # Sales Funnel Agents
 ![2](https://github.com/tushar2704/Sales-Funnel-Agents/assets/66141195/64844144-22b9-44aa-9d92-7689b15e0152)
+
 ![3](https://github.com/tushar2704/Sales-Funnel-Agents/assets/66141195/d4ea8393-eda0-4a68-90f6-1ccfa0eb63a3)
+
 
 Sales funnel agents are used to automate the sales funnel process.
 Key playes in sales funnel are:
@@ -19,7 +21,7 @@ Key playes in sales funnel are:
 - [Setup](./setup.md)
 - [Deploy](./deploy.md)
 - [Run](./run.md)
-
+![3](https://github.com/tushar2704/Sales-Funnel-Agents/assets/66141195/d4ea8393-eda0-4a68-90f6-1ccfa0eb63a3)
 
 ## FAQ
 - [FAQ](./FAQ.md)

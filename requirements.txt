@@ -4,3 +4,8 @@ taipy
 django
 python-dotenv
 crewai[tools]
+exa_py
+langchain
+ollama
+openai
+openai-whisper
